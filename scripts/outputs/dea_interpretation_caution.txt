@@ -1,0 +1,1 @@
+The DEA comparison uses reported illustrative scores from the accessible manuscript table. The repository does not recompute DEA because the DEA input/output matrix was not available. The VRS score column contains many tied values at 1.000, so any rank correlation with OFI should be interpreted cautiously and should not be treated as inferential evidence.

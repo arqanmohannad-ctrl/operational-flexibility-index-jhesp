@@ -1,0 +1,41 @@
+{
+  "tolerance": 0.001,
+  "columns_checked": [
+    "Bed_capacity",
+    "Patient_flow",
+    "Workforce",
+    "Demand_absorption",
+    "Cost_adaptability",
+    "OFI"
+  ],
+  "checks": {
+    "Bed_capacity": {
+      "max_abs_diff_rounded": 0.0,
+      "within_tolerance": true
+    },
+    "Patient_flow": {
+      "max_abs_diff_rounded": 0.0,
+      "within_tolerance": true
+    },
+    "Workforce": {
+      "max_abs_diff_rounded": 0.0,
+      "within_tolerance": true
+    },
+    "Demand_absorption": {
+      "max_abs_diff_rounded": 0.0,
+      "within_tolerance": true
+    },
+    "Cost_adaptability": {
+      "max_abs_diff_rounded": 0.0,
+      "within_tolerance": true
+    },
+    "OFI": {
+      "max_abs_diff_rounded": 0.0,
+      "within_tolerance": true
+    }
+  },
+  "rank_match": true,
+  "all_numeric_values_match_when_rounded_to_3_decimals": true,
+  "overall_verified": true,
+  "max_abs_diff_rounded": 0.0
+}

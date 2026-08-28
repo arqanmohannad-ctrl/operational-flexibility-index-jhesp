@@ -1,0 +1,43 @@
+{
+  "weighting_schemes": {
+    "OFI_equal_weights": {
+      "Bed_capacity": 0.2,
+      "Patient_flow": 0.2,
+      "Workforce": 0.2,
+      "Demand_absorption": 0.2,
+      "Cost_adaptability": 0.2
+    },
+    "OFI_resource_allocation_weights": {
+      "Bed_capacity": 0.25,
+      "Patient_flow": 0.25,
+      "Workforce": 0.2,
+      "Demand_absorption": 0.15,
+      "Cost_adaptability": 0.15
+    },
+    "OFI_cost_pressure_weights": {
+      "Bed_capacity": 0.15,
+      "Patient_flow": 0.15,
+      "Workforce": 0.15,
+      "Demand_absorption": 0.2,
+      "Cost_adaptability": 0.35
+    }
+  },
+  "spearman_equal_vs_resource_allocation": 0.996,
+  "spearman_equal_vs_cost_pressure": 0.996,
+  "checks": {
+    "OFI_equal_weights": {
+      "max_abs_diff_rounded": 0.0,
+      "within_tolerance": true
+    },
+    "OFI_resource_allocation_weights": {
+      "max_abs_diff_rounded": 0.0,
+      "within_tolerance": true
+    },
+    "OFI_cost_pressure_weights": {
+      "max_abs_diff_rounded": 0.0,
+      "within_tolerance": true
+    }
+  },
+  "overall_verified": true,
+  "note": "Spearman correlations are descriptive for the weighting-sensitivity illustration, not inferential evidence."
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "f3d7d771eab9701d24a6ea0dfef329491a8b2570953037881bea753fbf7d6d91",
+    "size_bytes": 397
+  },
+  {
+    "path": "CHANGELOG.md",
+    "sha256": "ab0bb3f58160157b77ada4f8a3103d70a3c84655ca717ff138b416ca57309d72",
+    "size_bytes": 371
+  },
+  {
+    "path": "CITATION.cff",
+    "sha256": "594c9f16cbbe46f2b03200a335652535bf6b890521af6d5ba7d2e77b196bd7ab",
+    "size_bytes": 774
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "5a99604c7d612464d0c6ae17fb7b1a96000e067f3e18df4496059b1e0ef85d21",
+    "size_bytes": 1332
+  },
+  {
+    "path": "README.md",
+    "sha256": "922a5e2099285febcb1af9601447a46b2ff2a3856491884ab7b150f2c8d8ea0f",
+    "size_bytes": 8978
+  },
+  {
+    "path": "data/processed/README.md",
+    "sha256": "ae3e8425dc053d2886b4e284c8b221055f5ee795f0541dc824e87435bdfe59e9",
+    "size_bytes": 521
+  },
+  {
+    "path": "data/processed/ofi_dimension_scores_computed.csv",
+    "sha256": "ec8dfc7cb7df58f3195cee5cb386cd5a964c29b87f9150f9054277e81a01db2b",
+    "size_bytes": 1578
+  },
+  {
+    "path": "data/processed/ofi_dimension_scores_reported.csv",
+    "sha256": "f4734ed217030a14987a11aa7c2ff913bb420c1766e1cfaf8c4a9005e74f3f23",
+    "size_bytes": 683
+  },
+  {
+    "path": "data/processed/ofi_sensitivity_reported.csv",
+    "sha256": "33be4e7ac27f2519db636281a876476a4d32342fde912277c0f5c877096db590",
+    "size_bytes": 409
+  },
+  {
+    "path": "data/processed/reported_illustrative_dea_scores.csv",
+    "sha256": "602e02c4d3ec03c24f707854bbdb008ca27026ea2c6da6269f3d6650d4174ce4",
+    "size_bytes": 411
+  },
+  {
+    "path": "data/raw/README.md",
+    "sha256": "9231cf1e519c285797d1590af8b7a6cbfd2b77f65148854efa7c008c2891f228",
+    "size_bytes": 342
+  },
+  {
+    "path": "data/raw/simulated_hospitals_ofi_data.csv",
+    "sha256": "7d870e2619a063547cb75a8e9e4aa4f04746039cb9cf8f071d627f379f5b24c1",
+    "size_bytes": 495
+  },
+  {
+    "path": "documentation/data_dictionary.md",
+    "sha256": "afda2fa7820347b58d1ddfdc41c63726ef5aa64a82419f59e886ecd4f0170ef3",
+    "size_bytes": 1510
+  },
+  {
+    "path": "documentation/data_sources.md",
+    "sha256": "b5906fd01cc6eda4e84655acb6cf1e4953a106888a2ccf27dc8d59ddcccd2935",
+    "size_bytes": 1263
+  },
+  {
+    "path": "documentation/limitations.md",
+    "sha256": "ac0d14a5b4277ccd93218080d30e90dff704ffc4b59a2974a12670b3da2986e2",
+    "size_bytes": 1779
+  },
+  {
+    "path": "documentation/methodology.md",
+    "sha256": "ad54b30e713618bf18e81a21d5dfb3ebf4793ce62527a42e58d8aa8c5c0b7dc8",
+    "size_bytes": 3034
+  },
+  {
+    "path": "documentation/reproducibility_notes.md",
+    "sha256": "a3ca9ae9e27f50a377798314208b7be94f9338797d224f851b834f539fde9090",
+    "size_bytes": 1215
+  },
+  {
+    "path": "outputs/dea_interpretation_caution.txt",
+    "sha256": "0003f202e9e2c05db62d68699e7c6afba2e9e93383586da3f58b5cef39110000",
+    "size_bytes": 358
+  },
+  {
+    "path": "outputs/figures/ofi_ranking_simulated_hospitals.png",
+    "sha256": "11d80cf6b722cba1ec6965bf181230bb5d9cd55982c993809c30a06af3c4efb1",
+    "size_bytes": 86894
+  },
+  {
+    "path": "outputs/figures/ofi_vs_reported_vrs_dea.png",
+    "sha256": "c1177c9284ab2f2e6454c16843dc63f41e8d8969cc846fc7c2e144cebfdd26ff",
+    "size_bytes": 98442
+  },
+  {
+    "path": "outputs/figures/ofi_weighting_sensitivity.png",
+    "sha256": "4391bbd5359bd45932d48bd1dec173d514d2a745a2572720c1ec0d32ba46ebac",
+    "size_bytes": 221762
+  },
+  {
+    "path": "outputs/final_tables/table_dea_comparison_reported_scores.csv",
+    "sha256": "b007312d5a9f9342a53c56b05bc6b4f0dccad63f7ac739dee74fc8a67c55657d",
+    "size_bytes": 428
+  },
+  {
+    "path": "outputs/final_tables/table_ofi_results.csv",
+    "sha256": "308dc912d456830a148b95df1642edffc954f0889ceceedc9f90977bfc0e74df",
+    "size_bytes": 667
+  },
+  {
+    "path": "outputs/final_tables/table_sensitivity_results.csv",
+    "sha256": "aedc630b1c708b3c9707e281c0dffb65aa5e7d07238d7e457e383e01ed4fb955",
+    "size_bytes": 393
+  },
+  {
+    "path": "outputs/verification_dea_comparison.json",
+    "sha256": "bac88b5a9971ad503c5875e54a298d1adec9f0851ac1445620944dd3c372eb97",
+    "size_bytes": 725
+  },
+  {
+    "path": "outputs/verification_ofi.json",
+    "sha256": "e33b8dba51dada7c093cf660576e29e2de54c1064f7611a00f9435482d8b13c6",
+    "size_bytes": 899
+  },
+  {
+    "path": "outputs/verification_sensitivity.json",
+    "sha256": "be31cf0056658cb9e5610a8375de828a214eed6b6174114ad975048d3f47c4b0",
+    "size_bytes": 1169
+  },
+  {
+    "path": "requirements.txt",
+    "sha256": "b63aea5d6238472ccdd07a5fa41c45a7f62b98df8900d8c05344035431186cbd",
+    "size_bytes": 40
+  },
+  {
+    "path": "scripts/01_construct_ofi.py",
+    "sha256": "d6898fb2cd680bfac0d88caa7ee9c934a2ade6918d40b7045ca58e77c035034e",
+    "size_bytes": 4606
+  },
+  {
+    "path": "scripts/02_sensitivity_analysis.py",
+    "sha256": "55db8f220223a107bcbb74b3b32b7326469e75001d129344d10e7b5587dda1cf",
+    "size_bytes": 3623
+  },
+  {
+    "path": "scripts/03_dea_comparison_from_reported_scores.py",
+    "sha256": "85c038cd525f6bb3d91ef206e2d0af0e325db6088167567cf7da276f677e2378",
+    "size_bytes": 3347
+  },
+  {
+    "path": "scripts/04_make_figures.py",
+    "sha256": "9e2ee66f1fc04cb9a6674dcbf0c434d4fd16b2eb62338310ea684077ec9cd62a",
+    "size_bytes": 2667
+  },
+  {
+    "path": "scripts/run_all.py",
+    "sha256": "6caf8caf5beadcd6128247c77d2690d59613ca7874b5bff0c329b82ad8dba03c",
+    "size_bytes": 692
+  }
+]

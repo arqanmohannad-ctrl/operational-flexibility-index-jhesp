@@ -1,0 +1,10 @@
+{
+  "dea_scores_recomputed": false,
+  "reason_not_recomputed": "DEA input/output matrix was not available in the conversation materials.",
+  "vrs_unique_score_count": 7,
+  "vrs_scores_equal_to_one": 9,
+  "descriptive_spearman_ofi_vs_vrs_reported": 0.411,
+  "descriptive_spearman_ofi_vs_crs_reported": 0.808,
+  "interpretation_caution": "The DEA comparison uses reported illustrative scores from the accessible manuscript table. The repository does not recompute DEA because the DEA input/output matrix was not available. The VRS score column contains many tied values at 1.000, so any rank correlation with OFI should be interpreted cautiously and should not be treated as inferential evidence.",
+  "overall_verified": true
+}

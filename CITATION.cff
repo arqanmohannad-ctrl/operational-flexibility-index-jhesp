@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Operational Flexibility Index for Public Hospitals: Reproducible Numerical Illustration"
+authors:
+  - family-names: "Alarqan"
+    given-names: "Mohannad Mahmoud"
+    name-particle: "Dr."
+year: 2026
+version: "1.0.0"
+doi: "10.52675/jhesp.1945352"
+repository-code: "https://github.com/<your-username>/operational-flexibility-index-jhesp"
+abstract: "A reproducible numerical illustration of the Operational Flexibility Index for public hospitals, including simulated data, normalization, weighting sensitivity, and a documented illustrative DEA comparison."
+keywords:
+  - healthcare analytics
+  - health economics
+  - hospital efficiency
+  - resource allocation
+  - composite indicators
